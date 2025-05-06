@@ -1,0 +1,12 @@
+{
+  "name": "contentful-zod-models",
+  "version": "1.0.0",
+  "description": "Contentful content models to TypeScript types and Zod decoders.",
+  "private": "false",
+  "devDependencies": {
+    "contentful": "^11.5.19"
+  },
+  "dependencies": {
+    "zod": "^3.24.4"
+  }
+}
